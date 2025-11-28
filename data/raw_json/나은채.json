@@ -1,0 +1,3511 @@
+{
+  "calibration": {
+    "reachablePoints": 482,
+    "points": [
+      {
+        "x": 234,
+        "y": 537,
+        "reachable": true,
+        "timestamp": 1764046503226
+      },
+      {
+        "x": 226,
+        "y": 530,
+        "reachable": true,
+        "timestamp": 1764046503338
+      },
+      {
+        "x": 226,
+        "y": 524,
+        "reachable": true,
+        "timestamp": 1764046503354
+      },
+      {
+        "x": 226,
+        "y": 516,
+        "reachable": true,
+        "timestamp": 1764046503371
+      },
+      {
+        "x": 224,
+        "y": 508,
+        "reachable": true,
+        "timestamp": 1764046503388
+      },
+      {
+        "x": 222,
+        "y": 497,
+        "reachable": true,
+        "timestamp": 1764046503405
+      },
+      {
+        "x": 220,
+        "y": 485,
+        "reachable": true,
+        "timestamp": 1764046503422
+      },
+      {
+        "x": 219,
+        "y": 473,
+        "reachable": true,
+        "timestamp": 1764046503438
+      },
+      {
+        "x": 218,
+        "y": 463,
+        "reachable": true,
+        "timestamp": 1764046503455
+      },
+      {
+        "x": 218,
+        "y": 453,
+        "reachable": true,
+        "timestamp": 1764046503471
+      },
+      {
+        "x": 218,
+        "y": 442,
+        "reachable": true,
+        "timestamp": 1764046503488
+      },
+      {
+        "x": 219,
+        "y": 429,
+        "reachable": true,
+        "timestamp": 1764046503504
+      },
+      {
+        "x": 222,
+        "y": 413,
+        "reachable": true,
+        "timestamp": 1764046503521
+      },
+      {
+        "x": 225,
+        "y": 400,
+        "reachable": true,
+        "timestamp": 1764046503538
+      },
+      {
+        "x": 228,
+        "y": 389,
+        "reachable": true,
+        "timestamp": 1764046503554
+      },
+      {
+        "x": 231,
+        "y": 382,
+        "reachable": true,
+        "timestamp": 1764046503571
+      },
+      {
+        "x": 235,
+        "y": 376,
+        "reachable": true,
+        "timestamp": 1764046503587
+      },
+      {
+        "x": 238,
+        "y": 370,
+        "reachable": true,
+        "timestamp": 1764046503605
+      },
+      {
+        "x": 240,
+        "y": 365,
+        "reachable": true,
+        "timestamp": 1764046503621
+      },
+      {
+        "x": 242,
+        "y": 361,
+        "reachable": true,
+        "timestamp": 1764046503638
+      },
+      {
+        "x": 245,
+        "y": 356,
+        "reachable": true,
+        "timestamp": 1764046503655
+      },
+      {
+        "x": 247,
+        "y": 352,
+        "reachable": true,
+        "timestamp": 1764046503671
+      },
+      {
+        "x": 251,
+        "y": 347,
+        "reachable": true,
+        "timestamp": 1764046503687
+      },
+      {
+        "x": 255,
+        "y": 342,
+        "reachable": true,
+        "timestamp": 1764046503704
+      },
+      {
+        "x": 258,
+        "y": 336,
+        "reachable": true,
+        "timestamp": 1764046503721
+      },
+      {
+        "x": 263,
+        "y": 331,
+        "reachable": true,
+        "timestamp": 1764046503737
+      },
+      {
+        "x": 267,
+        "y": 325,
+        "reachable": true,
+        "timestamp": 1764046503754
+      },
+      {
+        "x": 272,
+        "y": 320,
+        "reachable": true,
+        "timestamp": 1764046503771
+      },
+      {
+        "x": 277,
+        "y": 314,
+        "reachable": true,
+        "timestamp": 1764046503787
+      },
+      {
+        "x": 284,
+        "y": 307,
+        "reachable": true,
+        "timestamp": 1764046503805
+      },
+      {
+        "x": 293,
+        "y": 300,
+        "reachable": true,
+        "timestamp": 1764046503821
+      },
+      {
+        "x": 301,
+        "y": 293,
+        "reachable": true,
+        "timestamp": 1764046503839
+      },
+      {
+        "x": 309,
+        "y": 287,
+        "reachable": true,
+        "timestamp": 1764046503854
+      },
+      {
+        "x": 316,
+        "y": 281,
+        "reachable": true,
+        "timestamp": 1764046503870
+      },
+      {
+        "x": 323,
+        "y": 276,
+        "reachable": true,
+        "timestamp": 1764046503887
+      },
+      {
+        "x": 329,
+        "y": 273,
+        "reachable": true,
+        "timestamp": 1764046503904
+      },
+      {
+        "x": 335,
+        "y": 270,
+        "reachable": true,
+        "timestamp": 1764046503920
+      },
+      {
+        "x": 339,
+        "y": 268,
+        "reachable": true,
+        "timestamp": 1764046503937
+      },
+      {
+        "x": 344,
+        "y": 265,
+        "reachable": true,
+        "timestamp": 1764046503954
+      },
+      {
+        "x": 347,
+        "y": 262,
+        "reachable": true,
+        "timestamp": 1764046503970
+      },
+      {
+        "x": 351,
+        "y": 260,
+        "reachable": true,
+        "timestamp": 1764046503988
+      },
+      {
+        "x": 355,
+        "y": 259,
+        "reachable": true,
+        "timestamp": 1764046504005
+      },
+      {
+        "x": 360,
+        "y": 258,
+        "reachable": true,
+        "timestamp": 1764046504020
+      },
+      {
+        "x": 364,
+        "y": 257,
+        "reachable": true,
+        "timestamp": 1764046504037
+      },
+      {
+        "x": 368,
+        "y": 256,
+        "reachable": true,
+        "timestamp": 1764046504054
+      },
+      {
+        "x": 371,
+        "y": 254,
+        "reachable": true,
+        "timestamp": 1764046504071
+      },
+      {
+        "x": 374,
+        "y": 252,
+        "reachable": true,
+        "timestamp": 1764046504087
+      },
+      {
+        "x": 374,
+        "y": 251,
+        "reachable": true,
+        "timestamp": 1764046504103
+      },
+      {
+        "x": 374,
+        "y": 250,
+        "reachable": true,
+        "timestamp": 1764046504170
+      },
+      {
+        "x": 373,
+        "y": 250,
+        "reachable": true,
+        "timestamp": 1764046504586
+      },
+      {
+        "x": 371,
+        "y": 250,
+        "reachable": true,
+        "timestamp": 1764046504602
+      },
+      {
+        "x": 368,
+        "y": 250,
+        "reachable": true,
+        "timestamp": 1764046504619
+      },
+      {
+        "x": 364,
+        "y": 250,
+        "reachable": true,
+        "timestamp": 1764046504635
+      },
+      {
+        "x": 358,
+        "y": 250,
+        "reachable": true,
+        "timestamp": 1764046504653
+      },
+      {
+        "x": 351,
+        "y": 251,
+        "reachable": true,
+        "timestamp": 1764046504669
+      },
+      {
+        "x": 339,
+        "y": 254,
+        "reachable": true,
+        "timestamp": 1764046504686
+      },
+      {
+        "x": 327,
+        "y": 260,
+        "reachable": true,
+        "timestamp": 1764046504702
+      },
+      {
+        "x": 315,
+        "y": 267,
+        "reachable": true,
+        "timestamp": 1764046504720
+      },
+      {
+        "x": 302,
+        "y": 275,
+        "reachable": true,
+        "timestamp": 1764046504736
+      },
+      {
+        "x": 290,
+        "y": 285,
+        "reachable": true,
+        "timestamp": 1764046504752
+      },
+      {
+        "x": 276,
+        "y": 297,
+        "reachable": true,
+        "timestamp": 1764046504769
+      },
+      {
+        "x": 262,
+        "y": 310,
+        "reachable": true,
+        "timestamp": 1764046504785
+      },
+      {
+        "x": 252,
+        "y": 321,
+        "reachable": true,
+        "timestamp": 1764046504802
+      },
+      {
+        "x": 247,
+        "y": 329,
+        "reachable": true,
+        "timestamp": 1764046504820
+      },
+      {
+        "x": 244,
+        "y": 334,
+        "reachable": true,
+        "timestamp": 1764046504835
+      },
+      {
+        "x": 243,
+        "y": 338,
+        "reachable": true,
+        "timestamp": 1764046504852
+      },
+      {
+        "x": 242,
+        "y": 341,
+        "reachable": true,
+        "timestamp": 1764046504869
+      },
+      {
+        "x": 241,
+        "y": 345,
+        "reachable": true,
+        "timestamp": 1764046504886
+      },
+      {
+        "x": 239,
+        "y": 349,
+        "reachable": true,
+        "timestamp": 1764046504902
+      },
+      {
+        "x": 235,
+        "y": 357,
+        "reachable": true,
+        "timestamp": 1764046504919
+      },
+      {
+        "x": 230,
+        "y": 371,
+        "reachable": true,
+        "timestamp": 1764046504935
+      },
+      {
+        "x": 223,
+        "y": 390,
+        "reachable": true,
+        "timestamp": 1764046504952
+      },
+      {
+        "x": 219,
+        "y": 408,
+        "reachable": true,
+        "timestamp": 1764046504969
+      },
+      {
+        "x": 216,
+        "y": 423,
+        "reachable": true,
+        "timestamp": 1764046504985
+      },
+      {
+        "x": 215,
+        "y": 437,
+        "reachable": true,
+        "timestamp": 1764046505002
+      },
+      {
+        "x": 214,
+        "y": 449,
+        "reachable": true,
+        "timestamp": 1764046505019
+      },
+      {
+        "x": 214,
+        "y": 460,
+        "reachable": true,
+        "timestamp": 1764046505035
+      },
+      {
+        "x": 214,
+        "y": 470,
+        "reachable": true,
+        "timestamp": 1764046505052
+      },
+      {
+        "x": 214,
+        "y": 479,
+        "reachable": true,
+        "timestamp": 1764046505068
+      },
+      {
+        "x": 214,
+        "y": 485,
+        "reachable": true,
+        "timestamp": 1764046505085
+      },
+      {
+        "x": 213,
+        "y": 489,
+        "reachable": true,
+        "timestamp": 1764046505102
+      },
+      {
+        "x": 212,
+        "y": 492,
+        "reachable": true,
+        "timestamp": 1764046505119
+      },
+      {
+        "x": 210,
+        "y": 496,
+        "reachable": true,
+        "timestamp": 1764046505135
+      },
+      {
+        "x": 210,
+        "y": 500,
+        "reachable": true,
+        "timestamp": 1764046505152
+      },
+      {
+        "x": 210,
+        "y": 505,
+        "reachable": true,
+        "timestamp": 1764046505169
+      },
+      {
+        "x": 210,
+        "y": 509,
+        "reachable": true,
+        "timestamp": 1764046505185
+      },
+      {
+        "x": 211,
+        "y": 513,
+        "reachable": true,
+        "timestamp": 1764046505202
+      },
+      {
+        "x": 212,
+        "y": 517,
+        "reachable": true,
+        "timestamp": 1764046505218
+      },
+      {
+        "x": 214,
+        "y": 520,
+        "reachable": true,
+        "timestamp": 1764046505235
+      },
+      {
+        "x": 215,
+        "y": 522,
+        "reachable": true,
+        "timestamp": 1764046505252
+      },
+      {
+        "x": 217,
+        "y": 524,
+        "reachable": true,
+        "timestamp": 1764046505268
+      },
+      {
+        "x": 219,
+        "y": 526,
+        "reachable": true,
+        "timestamp": 1764046505285
+      },
+      {
+        "x": 220,
+        "y": 528,
+        "reachable": true,
+        "timestamp": 1764046505302
+      },
+      {
+        "x": 221,
+        "y": 529,
+        "reachable": true,
+        "timestamp": 1764046505318
+      },
+      {
+        "x": 220,
+        "y": 529,
+        "reachable": true,
+        "timestamp": 1764046505451
+      },
+      {
+        "x": 219,
+        "y": 529,
+        "reachable": true,
+        "timestamp": 1764046505518
+      },
+      {
+        "x": 218,
+        "y": 528,
+        "reachable": true,
+        "timestamp": 1764046505551
+      },
+      {
+        "x": 218,
+        "y": 525,
+        "reachable": true,
+        "timestamp": 1764046505568
+      },
+      {
+        "x": 217,
+        "y": 521,
+        "reachable": true,
+        "timestamp": 1764046505584
+      },
+      {
+        "x": 216,
+        "y": 515,
+        "reachable": true,
+        "timestamp": 1764046505602
+      },
+      {
+        "x": 215,
+        "y": 508,
+        "reachable": true,
+        "timestamp": 1764046505618
+      },
+      {
+        "x": 213,
+        "y": 495,
+        "reachable": true,
+        "timestamp": 1764046505634
+      },
+      {
+        "x": 212,
+        "y": 479,
+        "reachable": true,
+        "timestamp": 1764046505652
+      },
+      {
+        "x": 211,
+        "y": 464,
+        "reachable": true,
+        "timestamp": 1764046505668
+      },
+      {
+        "x": 211,
+        "y": 453,
+        "reachable": true,
+        "timestamp": 1764046505685
+      },
+      {
+        "x": 211,
+        "y": 442,
+        "reachable": true,
+        "timestamp": 1764046505701
+      },
+      {
+        "x": 213,
+        "y": 429,
+        "reachable": true,
+        "timestamp": 1764046505718
+      },
+      {
+        "x": 215,
+        "y": 413,
+        "reachable": true,
+        "timestamp": 1764046505735
+      },
+      {
+        "x": 219,
+        "y": 395,
+        "reachable": true,
+        "timestamp": 1764046505751
+      },
+      {
+        "x": 223,
+        "y": 379,
+        "reachable": true,
+        "timestamp": 1764046505768
+      },
+      {
+        "x": 228,
+        "y": 367,
+        "reachable": true,
+        "timestamp": 1764046505785
+      },
+      {
+        "x": 235,
+        "y": 357,
+        "reachable": true,
+        "timestamp": 1764046505801
+      },
+      {
+        "x": 242,
+        "y": 347,
+        "reachable": true,
+        "timestamp": 1764046505818
+      },
+      {
+        "x": 248,
+        "y": 337,
+        "reachable": true,
+        "timestamp": 1764046505835
+      },
+      {
+        "x": 254,
+        "y": 327,
+        "reachable": true,
+        "timestamp": 1764046505852
+      },
+      {
+        "x": 260,
+        "y": 318,
+        "reachable": true,
+        "timestamp": 1764046505867
+      },
+      {
+        "x": 267,
+        "y": 308,
+        "reachable": true,
+        "timestamp": 1764046505884
+      },
+      {
+        "x": 275,
+        "y": 297,
+        "reachable": true,
+        "timestamp": 1764046505901
+      },
+      {
+        "x": 284,
+        "y": 286,
+        "reachable": true,
+        "timestamp": 1764046505918
+      },
+      {
+        "x": 293,
+        "y": 277,
+        "reachable": true,
+        "timestamp": 1764046505934
+      },
+      {
+        "x": 302,
+        "y": 268,
+        "reachable": true,
+        "timestamp": 1764046505951
+      },
+      {
+        "x": 310,
+        "y": 260,
+        "reachable": true,
+        "timestamp": 1764046505967
+      },
+      {
+        "x": 318,
+        "y": 252,
+        "reachable": true,
+        "timestamp": 1764046505984
+      },
+      {
+        "x": 326,
+        "y": 245,
+        "reachable": true,
+        "timestamp": 1764046506001
+      },
+      {
+        "x": 334,
+        "y": 238,
+        "reachable": true,
+        "timestamp": 1764046506017
+      },
+      {
+        "x": 341,
+        "y": 234,
+        "reachable": true,
+        "timestamp": 1764046506033
+      },
+      {
+        "x": 346,
+        "y": 231,
+        "reachable": true,
+        "timestamp": 1764046506050
+      },
+      {
+        "x": 350,
+        "y": 230,
+        "reachable": true,
+        "timestamp": 1764046506067
+      },
+      {
+        "x": 354,
+        "y": 230,
+        "reachable": true,
+        "timestamp": 1764046506084
+      },
+      {
+        "x": 359,
+        "y": 230,
+        "reachable": true,
+        "timestamp": 1764046506100
+      },
+      {
+        "x": 363,
+        "y": 230,
+        "reachable": true,
+        "timestamp": 1764046506117
+      },
+      {
+        "x": 368,
+        "y": 230,
+        "reachable": true,
+        "timestamp": 1764046506134
+      },
+      {
+        "x": 371,
+        "y": 229,
+        "reachable": true,
+        "timestamp": 1764046506150
+      },
+      {
+        "x": 374,
+        "y": 229,
+        "reachable": true,
+        "timestamp": 1764046506167
+      },
+      {
+        "x": 376,
+        "y": 228,
+        "reachable": true,
+        "timestamp": 1764046506183
+      },
+      {
+        "x": 379,
+        "y": 226,
+        "reachable": true,
+        "timestamp": 1764046506200
+      },
+      {
+        "x": 382,
+        "y": 224,
+        "reachable": true,
+        "timestamp": 1764046506217
+      },
+      {
+        "x": 383,
+        "y": 223,
+        "reachable": true,
+        "timestamp": 1764046506233
+      },
+      {
+        "x": 384,
+        "y": 222,
+        "reachable": true,
+        "timestamp": 1764046506250
+      },
+      {
+        "x": 383,
+        "y": 222,
+        "reachable": true,
+        "timestamp": 1764046506333
+      },
+      {
+        "x": 383,
+        "y": 223,
+        "reachable": true,
+        "timestamp": 1764046506616
+      },
+      {
+        "x": 372,
+        "y": 270,
+        "reachable": true,
+        "timestamp": 1764046507569
+      },
+      {
+        "x": 362,
+        "y": 277,
+        "reachable": true,
+        "timestamp": 1764046507614
+      },
+      {
+        "x": 356,
+        "y": 282,
+        "reachable": true,
+        "timestamp": 1764046507631
+      },
+      {
+        "x": 349,
+        "y": 289,
+        "reachable": true,
+        "timestamp": 1764046507632
+      },
+      {
+        "x": 331,
+        "y": 307,
+        "reachable": true,
+        "timestamp": 1764046507649
+      },
+      {
+        "x": 313,
+        "y": 329,
+        "reachable": true,
+        "timestamp": 1764046507665
+      },
+      {
+        "x": 298,
+        "y": 354,
+        "reachable": true,
+        "timestamp": 1764046507682
+      },
+      {
+        "x": 283,
+        "y": 384,
+        "reachable": true,
+        "timestamp": 1764046507698
+      },
+      {
+        "x": 272,
+        "y": 420,
+        "reachable": true,
+        "timestamp": 1764046507715
+      },
+      {
+        "x": 267,
+        "y": 450,
+        "reachable": true,
+        "timestamp": 1764046507732
+      },
+      {
+        "x": 267,
+        "y": 470,
+        "reachable": true,
+        "timestamp": 1764046507748
+      },
+      {
+        "x": 267,
+        "y": 486,
+        "reachable": true,
+        "timestamp": 1764046507765
+      },
+      {
+        "x": 267,
+        "y": 498,
+        "reachable": true,
+        "timestamp": 1764046507782
+      },
+      {
+        "x": 271,
+        "y": 508,
+        "reachable": true,
+        "timestamp": 1764046507798
+      },
+      {
+        "x": 273,
+        "y": 515,
+        "reachable": true,
+        "timestamp": 1764046507815
+      },
+      {
+        "x": 275,
+        "y": 521,
+        "reachable": true,
+        "timestamp": 1764046507832
+      },
+      {
+        "x": 275,
+        "y": 524,
+        "reachable": true,
+        "timestamp": 1764046507848
+      },
+      {
+        "x": 275,
+        "y": 526,
+        "reachable": true,
+        "timestamp": 1764046507865
+      },
+      {
+        "x": 274,
+        "y": 528,
+        "reachable": true,
+        "timestamp": 1764046507897
+      },
+      {
+        "x": 273,
+        "y": 530,
+        "reachable": true,
+        "timestamp": 1764046507914
+      },
+      {
+        "x": 273,
+        "y": 532,
+        "reachable": true,
+        "timestamp": 1764046507931
+      },
+      {
+        "x": 273,
+        "y": 534,
+        "reachable": true,
+        "timestamp": 1764046507948
+      },
+      {
+        "x": 273,
+        "y": 535,
+        "reachable": true,
+        "timestamp": 1764046507965
+      },
+      {
+        "x": 270,
+        "y": 535,
+        "reachable": true,
+        "timestamp": 1764046507981
+      },
+      {
+        "x": 267,
+        "y": 534,
+        "reachable": true,
+        "timestamp": 1764046507998
+      },
+      {
+        "x": 266,
+        "y": 529,
+        "reachable": true,
+        "timestamp": 1764046508015
+      },
+      {
+        "x": 266,
+        "y": 519,
+        "reachable": true,
+        "timestamp": 1764046508031
+      },
+      {
+        "x": 266,
+        "y": 503,
+        "reachable": true,
+        "timestamp": 1764046508048
+      },
+      {
+        "x": 266,
+        "y": 483,
+        "reachable": true,
+        "timestamp": 1764046508064
+      },
+      {
+        "x": 269,
+        "y": 460,
+        "reachable": true,
+        "timestamp": 1764046508081
+      },
+      {
+        "x": 276,
+        "y": 437,
+        "reachable": true,
+        "timestamp": 1764046508098
+      },
+      {
+        "x": 284,
+        "y": 416,
+        "reachable": true,
+        "timestamp": 1764046508114
+      },
+      {
+        "x": 293,
+        "y": 395,
+        "reachable": true,
+        "timestamp": 1764046508131
+      },
+      {
+        "x": 302,
+        "y": 376,
+        "reachable": true,
+        "timestamp": 1764046508148
+      },
+      {
+        "x": 310,
+        "y": 362,
+        "reachable": true,
+        "timestamp": 1764046508164
+      },
+      {
+        "x": 315,
+        "y": 352,
+        "reachable": true,
+        "timestamp": 1764046508181
+      },
+      {
+        "x": 320,
+        "y": 340,
+        "reachable": true,
+        "timestamp": 1764046508198
+      },
+      {
+        "x": 327,
+        "y": 323,
+        "reachable": true,
+        "timestamp": 1764046508214
+      },
+      {
+        "x": 337,
+        "y": 305,
+        "reachable": true,
+        "timestamp": 1764046508231
+      },
+      {
+        "x": 345,
+        "y": 293,
+        "reachable": true,
+        "timestamp": 1764046508248
+      },
+      {
+        "x": 349,
+        "y": 289,
+        "reachable": true,
+        "timestamp": 1764046508264
+      },
+      {
+        "x": 346,
+        "y": 293,
+        "reachable": true,
+        "timestamp": 1764046508313
+      },
+      {
+        "x": 345,
+        "y": 297,
+        "reachable": true,
+        "timestamp": 1764046508330
+      },
+      {
+        "x": 343,
+        "y": 302,
+        "reachable": true,
+        "timestamp": 1764046508347
+      },
+      {
+        "x": 341,
+        "y": 309,
+        "reachable": true,
+        "timestamp": 1764046508364
+      },
+      {
+        "x": 328,
+        "y": 325,
+        "reachable": true,
+        "timestamp": 1764046508381
+      },
+      {
+        "x": 307,
+        "y": 353,
+        "reachable": true,
+        "timestamp": 1764046508397
+      },
+      {
+        "x": 288,
+        "y": 385,
+        "reachable": true,
+        "timestamp": 1764046508413
+      },
+      {
+        "x": 274,
+        "y": 422,
+        "reachable": true,
+        "timestamp": 1764046508431
+      },
+      {
+        "x": 268,
+        "y": 453,
+        "reachable": true,
+        "timestamp": 1764046508447
+      },
+      {
+        "x": 266,
+        "y": 474,
+        "reachable": true,
+        "timestamp": 1764046508464
+      },
+      {
+        "x": 263,
+        "y": 488,
+        "reachable": true,
+        "timestamp": 1764046508480
+      },
+      {
+        "x": 257,
+        "y": 496,
+        "reachable": true,
+        "timestamp": 1764046508497
+      },
+      {
+        "x": 253,
+        "y": 503,
+        "reachable": true,
+        "timestamp": 1764046508514
+      },
+      {
+        "x": 251,
+        "y": 509,
+        "reachable": true,
+        "timestamp": 1764046508530
+      },
+      {
+        "x": 251,
+        "y": 516,
+        "reachable": true,
+        "timestamp": 1764046508547
+      },
+      {
+        "x": 251,
+        "y": 522,
+        "reachable": true,
+        "timestamp": 1764046508564
+      },
+      {
+        "x": 253,
+        "y": 528,
+        "reachable": true,
+        "timestamp": 1764046508579
+      },
+      {
+        "x": 254,
+        "y": 532,
+        "reachable": true,
+        "timestamp": 1764046508597
+      },
+      {
+        "x": 255,
+        "y": 536,
+        "reachable": true,
+        "timestamp": 1764046508614
+      },
+      {
+        "x": 255,
+        "y": 538,
+        "reachable": true,
+        "timestamp": 1764046508630
+      },
+      {
+        "x": 255,
+        "y": 540,
+        "reachable": true,
+        "timestamp": 1764046508662
+      },
+      {
+        "x": 255,
+        "y": 541,
+        "reachable": true,
+        "timestamp": 1764046508679
+      },
+      {
+        "x": 255,
+        "y": 543,
+        "reachable": true,
+        "timestamp": 1764046508697
+      },
+      {
+        "x": 255,
+        "y": 545,
+        "reachable": true,
+        "timestamp": 1764046508713
+      },
+      {
+        "x": 255,
+        "y": 546,
+        "reachable": true,
+        "timestamp": 1764046508730
+      },
+      {
+        "x": 255,
+        "y": 543,
+        "reachable": true,
+        "timestamp": 1764046508812
+      },
+      {
+        "x": 255,
+        "y": 533,
+        "reachable": true,
+        "timestamp": 1764046508829
+      },
+      {
+        "x": 258,
+        "y": 516,
+        "reachable": true,
+        "timestamp": 1764046508847
+      },
+      {
+        "x": 260,
+        "y": 491,
+        "reachable": true,
+        "timestamp": 1764046508863
+      },
+      {
+        "x": 263,
+        "y": 465,
+        "reachable": true,
+        "timestamp": 1764046508880
+      },
+      {
+        "x": 270,
+        "y": 438,
+        "reachable": true,
+        "timestamp": 1764046508896
+      },
+      {
+        "x": 279,
+        "y": 410,
+        "reachable": true,
+        "timestamp": 1764046508913
+      },
+      {
+        "x": 289,
+        "y": 386,
+        "reachable": true,
+        "timestamp": 1764046508930
+      },
+      {
+        "x": 297,
+        "y": 368,
+        "reachable": true,
+        "timestamp": 1764046508946
+      },
+      {
+        "x": 303,
+        "y": 358,
+        "reachable": true,
+        "timestamp": 1764046508963
+      },
+      {
+        "x": 311,
+        "y": 350,
+        "reachable": true,
+        "timestamp": 1764046508980
+      },
+      {
+        "x": 320,
+        "y": 339,
+        "reachable": true,
+        "timestamp": 1764046508996
+      },
+      {
+        "x": 331,
+        "y": 323,
+        "reachable": true,
+        "timestamp": 1764046509013
+      },
+      {
+        "x": 341,
+        "y": 308,
+        "reachable": true,
+        "timestamp": 1764046509030
+      },
+      {
+        "x": 348,
+        "y": 299,
+        "reachable": true,
+        "timestamp": 1764046509046
+      },
+      {
+        "x": 351,
+        "y": 295,
+        "reachable": true,
+        "timestamp": 1764046509063
+      },
+      {
+        "x": 352,
+        "y": 295,
+        "reachable": true,
+        "timestamp": 1764046509079
+      },
+      {
+        "x": 350,
+        "y": 295,
+        "reachable": true,
+        "timestamp": 1764046509112
+      },
+      {
+        "x": 346,
+        "y": 299,
+        "reachable": true,
+        "timestamp": 1764046509128
+      },
+      {
+        "x": 334,
+        "y": 308,
+        "reachable": true,
+        "timestamp": 1764046509145
+      },
+      {
+        "x": 309,
+        "y": 330,
+        "reachable": true,
+        "timestamp": 1764046509162
+      },
+      {
+        "x": 290,
+        "y": 349,
+        "reachable": true,
+        "timestamp": 1764046509179
+      },
+      {
+        "x": 276,
+        "y": 366,
+        "reachable": true,
+        "timestamp": 1764046509196
+      },
+      {
+        "x": 264,
+        "y": 383,
+        "reachable": true,
+        "timestamp": 1764046509213
+      },
+      {
+        "x": 251,
+        "y": 402,
+        "reachable": true,
+        "timestamp": 1764046509229
+      },
+      {
+        "x": 241,
+        "y": 422,
+        "reachable": true,
+        "timestamp": 1764046509246
+      },
+      {
+        "x": 235,
+        "y": 438,
+        "reachable": true,
+        "timestamp": 1764046509263
+      },
+      {
+        "x": 233,
+        "y": 449,
+        "reachable": true,
+        "timestamp": 1764046509279
+      },
+      {
+        "x": 233,
+        "y": 457,
+        "reachable": true,
+        "timestamp": 1764046509296
+      },
+      {
+        "x": 233,
+        "y": 464,
+        "reachable": true,
+        "timestamp": 1764046509312
+      },
+      {
+        "x": 233,
+        "y": 471,
+        "reachable": true,
+        "timestamp": 1764046509329
+      },
+      {
+        "x": 234,
+        "y": 478,
+        "reachable": true,
+        "timestamp": 1764046509346
+      },
+      {
+        "x": 237,
+        "y": 486,
+        "reachable": true,
+        "timestamp": 1764046509362
+      },
+      {
+        "x": 241,
+        "y": 493,
+        "reachable": true,
+        "timestamp": 1764046509379
+      },
+      {
+        "x": 246,
+        "y": 499,
+        "reachable": true,
+        "timestamp": 1764046509396
+      },
+      {
+        "x": 251,
+        "y": 503,
+        "reachable": true,
+        "timestamp": 1764046509412
+      },
+      {
+        "x": 256,
+        "y": 505,
+        "reachable": true,
+        "timestamp": 1764046509429
+      },
+      {
+        "x": 261,
+        "y": 505,
+        "reachable": true,
+        "timestamp": 1764046509446
+      },
+      {
+        "x": 267,
+        "y": 505,
+        "reachable": true,
+        "timestamp": 1764046509462
+      },
+      {
+        "x": 274,
+        "y": 501,
+        "reachable": true,
+        "timestamp": 1764046509479
+      },
+      {
+        "x": 281,
+        "y": 492,
+        "reachable": true,
+        "timestamp": 1764046509496
+      },
+      {
+        "x": 289,
+        "y": 479,
+        "reachable": true,
+        "timestamp": 1764046509512
+      },
+      {
+        "x": 300,
+        "y": 465,
+        "reachable": true,
+        "timestamp": 1764046509529
+      },
+      {
+        "x": 312,
+        "y": 452,
+        "reachable": true,
+        "timestamp": 1764046509545
+      },
+      {
+        "x": 322,
+        "y": 442,
+        "reachable": true,
+        "timestamp": 1764046509562
+      },
+      {
+        "x": 329,
+        "y": 434,
+        "reachable": true,
+        "timestamp": 1764046509579
+      },
+      {
+        "x": 333,
+        "y": 428,
+        "reachable": true,
+        "timestamp": 1764046509595
+      },
+      {
+        "x": 336,
+        "y": 425,
+        "reachable": true,
+        "timestamp": 1764046509612
+      },
+      {
+        "x": 338,
+        "y": 423,
+        "reachable": true,
+        "timestamp": 1764046509628
+      },
+      {
+        "x": 339,
+        "y": 423,
+        "reachable": true,
+        "timestamp": 1764046509645
+      },
+      {
+        "x": 339,
+        "y": 428,
+        "reachable": true,
+        "timestamp": 1764046509679
+      },
+      {
+        "x": 339,
+        "y": 437,
+        "reachable": true,
+        "timestamp": 1764046509695
+      },
+      {
+        "x": 338,
+        "y": 452,
+        "reachable": true,
+        "timestamp": 1764046509712
+      },
+      {
+        "x": 332,
+        "y": 473,
+        "reachable": true,
+        "timestamp": 1764046509729
+      },
+      {
+        "x": 328,
+        "y": 492,
+        "reachable": true,
+        "timestamp": 1764046509745
+      },
+      {
+        "x": 327,
+        "y": 508,
+        "reachable": true,
+        "timestamp": 1764046509762
+      },
+      {
+        "x": 327,
+        "y": 516,
+        "reachable": true,
+        "timestamp": 1764046509778
+      },
+      {
+        "x": 329,
+        "y": 520,
+        "reachable": true,
+        "timestamp": 1764046509795
+      },
+      {
+        "x": 331,
+        "y": 523,
+        "reachable": true,
+        "timestamp": 1764046509812
+      },
+      {
+        "x": 334,
+        "y": 526,
+        "reachable": true,
+        "timestamp": 1764046509828
+      },
+      {
+        "x": 336,
+        "y": 530,
+        "reachable": true,
+        "timestamp": 1764046509845
+      },
+      {
+        "x": 337,
+        "y": 534,
+        "reachable": true,
+        "timestamp": 1764046509862
+      },
+      {
+        "x": 338,
+        "y": 536,
+        "reachable": true,
+        "timestamp": 1764046509879
+      },
+      {
+        "x": 338,
+        "y": 537,
+        "reachable": true,
+        "timestamp": 1764046509895
+      },
+      {
+        "x": 337,
+        "y": 537,
+        "reachable": true,
+        "timestamp": 1764046509911
+      },
+      {
+        "x": 334,
+        "y": 535,
+        "reachable": true,
+        "timestamp": 1764046509928
+      },
+      {
+        "x": 333,
+        "y": 526,
+        "reachable": true,
+        "timestamp": 1764046509945
+      },
+      {
+        "x": 332,
+        "y": 515,
+        "reachable": true,
+        "timestamp": 1764046509961
+      },
+      {
+        "x": 333,
+        "y": 502,
+        "reachable": true,
+        "timestamp": 1764046509978
+      },
+      {
+        "x": 339,
+        "y": 488,
+        "reachable": true,
+        "timestamp": 1764046509995
+      },
+      {
+        "x": 343,
+        "y": 469,
+        "reachable": true,
+        "timestamp": 1764046510011
+      },
+      {
+        "x": 345,
+        "y": 442,
+        "reachable": true,
+        "timestamp": 1764046510028
+      },
+      {
+        "x": 345,
+        "y": 415,
+        "reachable": true,
+        "timestamp": 1764046510045
+      },
+      {
+        "x": 345,
+        "y": 396,
+        "reachable": true,
+        "timestamp": 1764046510061
+      },
+      {
+        "x": 345,
+        "y": 385,
+        "reachable": true,
+        "timestamp": 1764046510077
+      },
+      {
+        "x": 347,
+        "y": 374,
+        "reachable": true,
+        "timestamp": 1764046510095
+      },
+      {
+        "x": 348,
+        "y": 356,
+        "reachable": true,
+        "timestamp": 1764046510111
+      },
+      {
+        "x": 349,
+        "y": 332,
+        "reachable": true,
+        "timestamp": 1764046510128
+      },
+      {
+        "x": 349,
+        "y": 312,
+        "reachable": true,
+        "timestamp": 1764046510144
+      },
+      {
+        "x": 351,
+        "y": 301,
+        "reachable": true,
+        "timestamp": 1764046510160
+      },
+      {
+        "x": 352,
+        "y": 297,
+        "reachable": true,
+        "timestamp": 1764046510177
+      },
+      {
+        "x": 353,
+        "y": 296,
+        "reachable": true,
+        "timestamp": 1764046510195
+      },
+      {
+        "x": 354,
+        "y": 296,
+        "reachable": true,
+        "timestamp": 1764046510211
+      },
+      {
+        "x": 354,
+        "y": 297,
+        "reachable": true,
+        "timestamp": 1764046510228
+      },
+      {
+        "x": 354,
+        "y": 302,
+        "reachable": true,
+        "timestamp": 1764046510244
+      },
+      {
+        "x": 352,
+        "y": 316,
+        "reachable": true,
+        "timestamp": 1764046510261
+      },
+      {
+        "x": 334,
+        "y": 357,
+        "reachable": true,
+        "timestamp": 1764046510278
+      },
+      {
+        "x": 319,
+        "y": 399,
+        "reachable": true,
+        "timestamp": 1764046510294
+      },
+      {
+        "x": 312,
+        "y": 431,
+        "reachable": true,
+        "timestamp": 1764046510311
+      },
+      {
+        "x": 309,
+        "y": 456,
+        "reachable": true,
+        "timestamp": 1764046510327
+      },
+      {
+        "x": 309,
+        "y": 475,
+        "reachable": true,
+        "timestamp": 1764046510344
+      },
+      {
+        "x": 309,
+        "y": 488,
+        "reachable": true,
+        "timestamp": 1764046510361
+      },
+      {
+        "x": 309,
+        "y": 498,
+        "reachable": true,
+        "timestamp": 1764046510377
+      },
+      {
+        "x": 310,
+        "y": 507,
+        "reachable": true,
+        "timestamp": 1764046510394
+      },
+      {
+        "x": 313,
+        "y": 515,
+        "reachable": true,
+        "timestamp": 1764046510411
+      },
+      {
+        "x": 315,
+        "y": 521,
+        "reachable": true,
+        "timestamp": 1764046510427
+      },
+      {
+        "x": 316,
+        "y": 525,
+        "reachable": true,
+        "timestamp": 1764046510444
+      },
+      {
+        "x": 316,
+        "y": 527,
+        "reachable": true,
+        "timestamp": 1764046510461
+      },
+      {
+        "x": 316,
+        "y": 530,
+        "reachable": true,
+        "timestamp": 1764046510477
+      },
+      {
+        "x": 316,
+        "y": 531,
+        "reachable": true,
+        "timestamp": 1764046510494
+      },
+      {
+        "x": 316,
+        "y": 533,
+        "reachable": true,
+        "timestamp": 1764046510510
+      },
+      {
+        "x": 316,
+        "y": 526,
+        "reachable": true,
+        "timestamp": 1764046510559
+      },
+      {
+        "x": 315,
+        "y": 512,
+        "reachable": true,
+        "timestamp": 1764046510576
+      },
+      {
+        "x": 314,
+        "y": 495,
+        "reachable": true,
+        "timestamp": 1764046510594
+      },
+      {
+        "x": 314,
+        "y": 479,
+        "reachable": true,
+        "timestamp": 1764046510610
+      },
+      {
+        "x": 314,
+        "y": 463,
+        "reachable": true,
+        "timestamp": 1764046510627
+      },
+      {
+        "x": 314,
+        "y": 446,
+        "reachable": true,
+        "timestamp": 1764046510643
+      },
+      {
+        "x": 314,
+        "y": 430,
+        "reachable": true,
+        "timestamp": 1764046510660
+      },
+      {
+        "x": 314,
+        "y": 416,
+        "reachable": true,
+        "timestamp": 1764046510677
+      },
+      {
+        "x": 317,
+        "y": 404,
+        "reachable": true,
+        "timestamp": 1764046510694
+      },
+      {
+        "x": 321,
+        "y": 392,
+        "reachable": true,
+        "timestamp": 1764046510710
+      },
+      {
+        "x": 325,
+        "y": 374,
+        "reachable": true,
+        "timestamp": 1764046510727
+      },
+      {
+        "x": 328,
+        "y": 355,
+        "reachable": true,
+        "timestamp": 1764046510743
+      },
+      {
+        "x": 333,
+        "y": 341,
+        "reachable": true,
+        "timestamp": 1764046510760
+      },
+      {
+        "x": 337,
+        "y": 333,
+        "reachable": true,
+        "timestamp": 1764046510777
+      },
+      {
+        "x": 339,
+        "y": 332,
+        "reachable": true,
+        "timestamp": 1764046510793
+      },
+      {
+        "x": 340,
+        "y": 332,
+        "reachable": true,
+        "timestamp": 1764046510810
+      },
+      {
+        "x": 341,
+        "y": 332,
+        "reachable": true,
+        "timestamp": 1764046510827
+      },
+      {
+        "x": 341,
+        "y": 336,
+        "reachable": true,
+        "timestamp": 1764046510843
+      },
+      {
+        "x": 341,
+        "y": 342,
+        "reachable": true,
+        "timestamp": 1764046510860
+      },
+      {
+        "x": 340,
+        "y": 350,
+        "reachable": true,
+        "timestamp": 1764046510877
+      },
+      {
+        "x": 339,
+        "y": 358,
+        "reachable": true,
+        "timestamp": 1764046510893
+      },
+      {
+        "x": 336,
+        "y": 367,
+        "reachable": true,
+        "timestamp": 1764046510910
+      },
+      {
+        "x": 334,
+        "y": 376,
+        "reachable": true,
+        "timestamp": 1764046510927
+      },
+      {
+        "x": 330,
+        "y": 387,
+        "reachable": true,
+        "timestamp": 1764046510943
+      },
+      {
+        "x": 326,
+        "y": 401,
+        "reachable": true,
+        "timestamp": 1764046510960
+      },
+      {
+        "x": 320,
+        "y": 420,
+        "reachable": true,
+        "timestamp": 1764046510976
+      },
+      {
+        "x": 316,
+        "y": 446,
+        "reachable": true,
+        "timestamp": 1764046510993
+      },
+      {
+        "x": 314,
+        "y": 470,
+        "reachable": true,
+        "timestamp": 1764046511010
+      },
+      {
+        "x": 313,
+        "y": 487,
+        "reachable": true,
+        "timestamp": 1764046511026
+      },
+      {
+        "x": 311,
+        "y": 497,
+        "reachable": true,
+        "timestamp": 1764046511043
+      },
+      {
+        "x": 308,
+        "y": 503,
+        "reachable": true,
+        "timestamp": 1764046511060
+      },
+      {
+        "x": 305,
+        "y": 508,
+        "reachable": true,
+        "timestamp": 1764046511076
+      },
+      {
+        "x": 304,
+        "y": 512,
+        "reachable": true,
+        "timestamp": 1764046511093
+      },
+      {
+        "x": 302,
+        "y": 517,
+        "reachable": true,
+        "timestamp": 1764046511110
+      },
+      {
+        "x": 302,
+        "y": 523,
+        "reachable": true,
+        "timestamp": 1764046511126
+      },
+      {
+        "x": 302,
+        "y": 528,
+        "reachable": true,
+        "timestamp": 1764046511143
+      },
+      {
+        "x": 302,
+        "y": 533,
+        "reachable": true,
+        "timestamp": 1764046511160
+      },
+      {
+        "x": 302,
+        "y": 538,
+        "reachable": true,
+        "timestamp": 1764046511176
+      },
+      {
+        "x": 304,
+        "y": 544,
+        "reachable": true,
+        "timestamp": 1764046511193
+      },
+      {
+        "x": 306,
+        "y": 548,
+        "reachable": true,
+        "timestamp": 1764046511209
+      },
+      {
+        "x": 309,
+        "y": 551,
+        "reachable": true,
+        "timestamp": 1764046511226
+      },
+      {
+        "x": 310,
+        "y": 553,
+        "reachable": true,
+        "timestamp": 1764046511242
+      },
+      {
+        "x": 311,
+        "y": 554,
+        "reachable": true,
+        "timestamp": 1764046511259
+      },
+      {
+        "x": 312,
+        "y": 555,
+        "reachable": true,
+        "timestamp": 1764046511276
+      },
+      {
+        "x": 313,
+        "y": 556,
+        "reachable": true,
+        "timestamp": 1764046511293
+      },
+      {
+        "x": 314,
+        "y": 557,
+        "reachable": true,
+        "timestamp": 1764046511308
+      },
+      {
+        "x": 313,
+        "y": 553,
+        "reachable": true,
+        "timestamp": 1764046511358
+      },
+      {
+        "x": 311,
+        "y": 545,
+        "reachable": true,
+        "timestamp": 1764046511375
+      },
+      {
+        "x": 310,
+        "y": 533,
+        "reachable": true,
+        "timestamp": 1764046511392
+      },
+      {
+        "x": 310,
+        "y": 518,
+        "reachable": true,
+        "timestamp": 1764046511409
+      },
+      {
+        "x": 310,
+        "y": 501,
+        "reachable": true,
+        "timestamp": 1764046511426
+      },
+      {
+        "x": 316,
+        "y": 484,
+        "reachable": true,
+        "timestamp": 1764046511442
+      },
+      {
+        "x": 322,
+        "y": 467,
+        "reachable": true,
+        "timestamp": 1764046511459
+      },
+      {
+        "x": 328,
+        "y": 451,
+        "reachable": true,
+        "timestamp": 1764046511476
+      },
+      {
+        "x": 333,
+        "y": 437,
+        "reachable": true,
+        "timestamp": 1764046511492
+      },
+      {
+        "x": 338,
+        "y": 422,
+        "reachable": true,
+        "timestamp": 1764046511509
+      },
+      {
+        "x": 343,
+        "y": 408,
+        "reachable": true,
+        "timestamp": 1764046511526
+      },
+      {
+        "x": 346,
+        "y": 392,
+        "reachable": true,
+        "timestamp": 1764046511542
+      },
+      {
+        "x": 348,
+        "y": 373,
+        "reachable": true,
+        "timestamp": 1764046511559
+      },
+      {
+        "x": 350,
+        "y": 352,
+        "reachable": true,
+        "timestamp": 1764046511575
+      },
+      {
+        "x": 352,
+        "y": 336,
+        "reachable": true,
+        "timestamp": 1764046511592
+      },
+      {
+        "x": 355,
+        "y": 328,
+        "reachable": true,
+        "timestamp": 1764046511609
+      },
+      {
+        "x": 358,
+        "y": 325,
+        "reachable": true,
+        "timestamp": 1764046511625
+      },
+      {
+        "x": 360,
+        "y": 323,
+        "reachable": true,
+        "timestamp": 1764046511642
+      },
+      {
+        "x": 363,
+        "y": 319,
+        "reachable": true,
+        "timestamp": 1764046511659
+      },
+      {
+        "x": 365,
+        "y": 314,
+        "reachable": true,
+        "timestamp": 1764046511675
+      },
+      {
+        "x": 366,
+        "y": 310,
+        "reachable": true,
+        "timestamp": 1764046511692
+      },
+      {
+        "x": 366,
+        "y": 309,
+        "reachable": true,
+        "timestamp": 1764046511709
+      },
+      {
+        "x": 366,
+        "y": 314,
+        "reachable": true,
+        "timestamp": 1764046511741
+      },
+      {
+        "x": 366,
+        "y": 323,
+        "reachable": true,
+        "timestamp": 1764046511758
+      },
+      {
+        "x": 366,
+        "y": 340,
+        "reachable": true,
+        "timestamp": 1764046511775
+      },
+      {
+        "x": 366,
+        "y": 372,
+        "reachable": true,
+        "timestamp": 1764046511792
+      },
+      {
+        "x": 363,
+        "y": 407,
+        "reachable": true,
+        "timestamp": 1764046511808
+      },
+      {
+        "x": 362,
+        "y": 438,
+        "reachable": true,
+        "timestamp": 1764046511825
+      },
+      {
+        "x": 362,
+        "y": 465,
+        "reachable": true,
+        "timestamp": 1764046511842
+      },
+      {
+        "x": 362,
+        "y": 484,
+        "reachable": true,
+        "timestamp": 1764046511858
+      },
+      {
+        "x": 365,
+        "y": 498,
+        "reachable": true,
+        "timestamp": 1764046511875
+      },
+      {
+        "x": 370,
+        "y": 508,
+        "reachable": true,
+        "timestamp": 1764046511892
+      },
+      {
+        "x": 372,
+        "y": 516,
+        "reachable": true,
+        "timestamp": 1764046511907
+      },
+      {
+        "x": 373,
+        "y": 521,
+        "reachable": true,
+        "timestamp": 1764046511925
+      },
+      {
+        "x": 373,
+        "y": 524,
+        "reachable": true,
+        "timestamp": 1764046511942
+      },
+      {
+        "x": 373,
+        "y": 526,
+        "reachable": true,
+        "timestamp": 1764046511958
+      },
+      {
+        "x": 373,
+        "y": 529,
+        "reachable": true,
+        "timestamp": 1764046511975
+      },
+      {
+        "x": 373,
+        "y": 533,
+        "reachable": true,
+        "timestamp": 1764046511992
+      },
+      {
+        "x": 374,
+        "y": 537,
+        "reachable": true,
+        "timestamp": 1764046512008
+      },
+      {
+        "x": 377,
+        "y": 540,
+        "reachable": true,
+        "timestamp": 1764046512024
+      },
+      {
+        "x": 378,
+        "y": 541,
+        "reachable": true,
+        "timestamp": 1764046512041
+      },
+      {
+        "x": 378,
+        "y": 537,
+        "reachable": true,
+        "timestamp": 1764046512090
+      },
+      {
+        "x": 377,
+        "y": 530,
+        "reachable": true,
+        "timestamp": 1764046512107
+      },
+      {
+        "x": 376,
+        "y": 519,
+        "reachable": true,
+        "timestamp": 1764046512124
+      },
+      {
+        "x": 376,
+        "y": 508,
+        "reachable": true,
+        "timestamp": 1764046512140
+      },
+      {
+        "x": 376,
+        "y": 496,
+        "reachable": true,
+        "timestamp": 1764046512158
+      },
+      {
+        "x": 376,
+        "y": 484,
+        "reachable": true,
+        "timestamp": 1764046512175
+      },
+      {
+        "x": 376,
+        "y": 472,
+        "reachable": true,
+        "timestamp": 1764046512191
+      },
+      {
+        "x": 374,
+        "y": 457,
+        "reachable": true,
+        "timestamp": 1764046512208
+      },
+      {
+        "x": 369,
+        "y": 431,
+        "reachable": true,
+        "timestamp": 1764046512224
+      },
+      {
+        "x": 365,
+        "y": 399,
+        "reachable": true,
+        "timestamp": 1764046512241
+      },
+      {
+        "x": 363,
+        "y": 375,
+        "reachable": true,
+        "timestamp": 1764046512258
+      },
+      {
+        "x": 363,
+        "y": 363,
+        "reachable": true,
+        "timestamp": 1764046512274
+      },
+      {
+        "x": 363,
+        "y": 358,
+        "reachable": true,
+        "timestamp": 1764046512291
+      },
+      {
+        "x": 363,
+        "y": 352,
+        "reachable": true,
+        "timestamp": 1764046512308
+      },
+      {
+        "x": 363,
+        "y": 343,
+        "reachable": true,
+        "timestamp": 1764046512324
+      },
+      {
+        "x": 364,
+        "y": 330,
+        "reachable": true,
+        "timestamp": 1764046512341
+      },
+      {
+        "x": 365,
+        "y": 308,
+        "reachable": true,
+        "timestamp": 1764046512358
+      },
+      {
+        "x": 370,
+        "y": 284,
+        "reachable": true,
+        "timestamp": 1764046512374
+      },
+      {
+        "x": 374,
+        "y": 272,
+        "reachable": true,
+        "timestamp": 1764046512391
+      },
+      {
+        "x": 376,
+        "y": 271,
+        "reachable": true,
+        "timestamp": 1764046512407
+      },
+      {
+        "x": 376,
+        "y": 272,
+        "reachable": true,
+        "timestamp": 1764046512440
+      },
+      {
+        "x": 375,
+        "y": 272,
+        "reachable": true,
+        "timestamp": 1764046512457
+      },
+      {
+        "x": 375,
+        "y": 273,
+        "reachable": true,
+        "timestamp": 1764046512474
+      },
+      {
+        "x": 375,
+        "y": 275,
+        "reachable": true,
+        "timestamp": 1764046512491
+      },
+      {
+        "x": 375,
+        "y": 280,
+        "reachable": true,
+        "timestamp": 1764046512507
+      },
+      {
+        "x": 375,
+        "y": 289,
+        "reachable": true,
+        "timestamp": 1764046512523
+      },
+      {
+        "x": 376,
+        "y": 304,
+        "reachable": true,
+        "timestamp": 1764046512541
+      },
+      {
+        "x": 376,
+        "y": 325,
+        "reachable": true,
+        "timestamp": 1764046512557
+      },
+      {
+        "x": 376,
+        "y": 353,
+        "reachable": true,
+        "timestamp": 1764046512574
+      },
+      {
+        "x": 376,
+        "y": 385,
+        "reachable": true,
+        "timestamp": 1764046512591
+      },
+      {
+        "x": 381,
+        "y": 417,
+        "reachable": true,
+        "timestamp": 1764046512607
+      },
+      {
+        "x": 387,
+        "y": 446,
+        "reachable": true,
+        "timestamp": 1764046512624
+      },
+      {
+        "x": 390,
+        "y": 465,
+        "reachable": true,
+        "timestamp": 1764046512641
+      },
+      {
+        "x": 390,
+        "y": 476,
+        "reachable": true,
+        "timestamp": 1764046512657
+      },
+      {
+        "x": 390,
+        "y": 484,
+        "reachable": true,
+        "timestamp": 1764046512674
+      },
+      {
+        "x": 390,
+        "y": 492,
+        "reachable": true,
+        "timestamp": 1764046512691
+      },
+      {
+        "x": 390,
+        "y": 499,
+        "reachable": true,
+        "timestamp": 1764046512707
+      },
+      {
+        "x": 390,
+        "y": 506,
+        "reachable": true,
+        "timestamp": 1764046512724
+      },
+      {
+        "x": 390,
+        "y": 511,
+        "reachable": true,
+        "timestamp": 1764046512740
+      },
+      {
+        "x": 390,
+        "y": 515,
+        "reachable": true,
+        "timestamp": 1764046512757
+      },
+      {
+        "x": 390,
+        "y": 517,
+        "reachable": true,
+        "timestamp": 1764046512774
+      },
+      {
+        "x": 390,
+        "y": 519,
+        "reachable": true,
+        "timestamp": 1764046512790
+      },
+      {
+        "x": 390,
+        "y": 521,
+        "reachable": true,
+        "timestamp": 1764046512807
+      },
+      {
+        "x": 390,
+        "y": 522,
+        "reachable": true,
+        "timestamp": 1764046512824
+      },
+      {
+        "x": 390,
+        "y": 520,
+        "reachable": true,
+        "timestamp": 1764046512857
+      },
+      {
+        "x": 390,
+        "y": 513,
+        "reachable": true,
+        "timestamp": 1764046512873
+      },
+      {
+        "x": 390,
+        "y": 500,
+        "reachable": true,
+        "timestamp": 1764046512890
+      },
+      {
+        "x": 390,
+        "y": 481,
+        "reachable": true,
+        "timestamp": 1764046512907
+      },
+      {
+        "x": 386,
+        "y": 459,
+        "reachable": true,
+        "timestamp": 1764046512923
+      },
+      {
+        "x": 382,
+        "y": 443,
+        "reachable": true,
+        "timestamp": 1764046512940
+      },
+      {
+        "x": 380,
+        "y": 432,
+        "reachable": true,
+        "timestamp": 1764046512957
+      },
+      {
+        "x": 377,
+        "y": 423,
+        "reachable": true,
+        "timestamp": 1764046512973
+      },
+      {
+        "x": 374,
+        "y": 412,
+        "reachable": true,
+        "timestamp": 1764046512990
+      },
+      {
+        "x": 369,
+        "y": 397,
+        "reachable": true,
+        "timestamp": 1764046513007
+      },
+      {
+        "x": 368,
+        "y": 385,
+        "reachable": true,
+        "timestamp": 1764046513023
+      },
+      {
+        "x": 367,
+        "y": 382,
+        "reachable": true,
+        "timestamp": 1764046513040
+      },
+      {
+        "x": 367,
+        "y": 389,
+        "reachable": true,
+        "timestamp": 1764046513072
+      },
+      {
+        "x": 367,
+        "y": 398,
+        "reachable": true,
+        "timestamp": 1764046513089
+      },
+      {
+        "x": 366,
+        "y": 415,
+        "reachable": true,
+        "timestamp": 1764046513107
+      },
+      {
+        "x": 362,
+        "y": 444,
+        "reachable": true,
+        "timestamp": 1764046513123
+      },
+      {
+        "x": 361,
+        "y": 469,
+        "reachable": true,
+        "timestamp": 1764046513140
+      },
+      {
+        "x": 361,
+        "y": 487,
+        "reachable": true,
+        "timestamp": 1764046513156
+      },
+      {
+        "x": 363,
+        "y": 498,
+        "reachable": true,
+        "timestamp": 1764046513173
+      },
+      {
+        "x": 367,
+        "y": 507,
+        "reachable": true,
+        "timestamp": 1764046513190
+      },
+      {
+        "x": 371,
+        "y": 516,
+        "reachable": true,
+        "timestamp": 1764046513206
+      },
+      {
+        "x": 373,
+        "y": 523,
+        "reachable": true,
+        "timestamp": 1764046513223
+      },
+      {
+        "x": 373,
+        "y": 530,
+        "reachable": true,
+        "timestamp": 1764046513240
+      },
+      {
+        "x": 373,
+        "y": 536,
+        "reachable": true,
+        "timestamp": 1764046513256
+      },
+      {
+        "x": 373,
+        "y": 541,
+        "reachable": true,
+        "timestamp": 1764046513273
+      },
+      {
+        "x": 371,
+        "y": 544,
+        "reachable": true,
+        "timestamp": 1764046513290
+      },
+      {
+        "x": 369,
+        "y": 547,
+        "reachable": true,
+        "timestamp": 1764046513306
+      },
+      {
+        "x": 365,
+        "y": 548,
+        "reachable": true,
+        "timestamp": 1764046513323
+      },
+      {
+        "x": 360,
+        "y": 550,
+        "reachable": true,
+        "timestamp": 1764046513339
+      },
+      {
+        "x": 355,
+        "y": 551,
+        "reachable": true,
+        "timestamp": 1764046513356
+      },
+      {
+        "x": 350,
+        "y": 552,
+        "reachable": true,
+        "timestamp": 1764046513373
+      },
+      {
+        "x": 347,
+        "y": 552,
+        "reachable": true,
+        "timestamp": 1764046513389
+      },
+      {
+        "x": 345,
+        "y": 552,
+        "reachable": true,
+        "timestamp": 1764046513406
+      },
+      {
+        "x": 344,
+        "y": 551,
+        "reachable": true,
+        "timestamp": 1764046513423
+      },
+      {
+        "x": 344,
+        "y": 548,
+        "reachable": true,
+        "timestamp": 1764046513439
+      },
+      {
+        "x": 344,
+        "y": 546,
+        "reachable": true,
+        "timestamp": 1764046513456
+      },
+      {
+        "x": 343,
+        "y": 544,
+        "reachable": true,
+        "timestamp": 1764046513473
+      },
+      {
+        "x": 342,
+        "y": 543,
+        "reachable": true,
+        "timestamp": 1764046513489
+      },
+      {
+        "x": 341,
+        "y": 543,
+        "reachable": true,
+        "timestamp": 1764046513506
+      },
+      {
+        "x": 339,
+        "y": 543,
+        "reachable": true,
+        "timestamp": 1764046513522
+      },
+      {
+        "x": 339,
+        "y": 544,
+        "reachable": true,
+        "timestamp": 1764046513571
+      },
+      {
+        "x": 342,
+        "y": 544,
+        "reachable": true,
+        "timestamp": 1764046513605
+      },
+      {
+        "x": 343,
+        "y": 544,
+        "reachable": true,
+        "timestamp": 1764046513622
+      }
+    ]
+  },
+  "circleData": {
+    "handedness": "right",
+    "centroid": {
+      "x": 311.8526970954357,
+      "y": 419.07676348547716
+    },
+    "circleCenter": {
+      "x": 350,
+      "y": 700
+    },
+    "circleCenterType": "fixed-iphone16",
+    "radius": 359.4022815731698,
+    "radiusCalculationMethod": "70th percentile of calibration distances",
+    "radiusPoint": {
+      "x": 333,
+      "y": 341,
+      "reachable": true,
+      "timestamp": 1764046510760
+    },
+    "maxDistance": 479.20767940424327,
+    "farthestPoint": {
+      "x": 384,
+      "y": 222,
+      "reachable": true,
+      "timestamp": 1764046506250
+    },
+    "borderThreshold": 89.85057039329244,
+    "borderRange": {
+      "min": 269.5517111798773,
+      "max": 359.4022815731698
+    },
+    "angleRange": "180-270° (9-12 o'clock)",
+    "angleRangeDegrees": {
+      "min": 180,
+      "max": 270
+    }
+  },
+  "deviceInfo": {
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "viewportWidth": 393,
+    "viewportHeight": 671,
+    "devicePixelRatio": 3,
+    "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari/604.1 Safari/604.1 KAKAOTALK/25.10.1 (INAPP) KAKAOTALK/25.10.1 (INAPP)"
+  },
+  "experiments": [
+    {
+      "condition": "adaptive",
+      "order": 1,
+      "avgCompletionTime": 2502.4,
+      "errorRate": 0,
+      "trials": [
+        {
+          "trial": 1,
+          "targetString": "vie",
+          "userInput": "vie",
+          "buttonPosition": {
+            "x": 182,
+            "y": 475,
+            "zone": "adaptive-circle-border-angle",
+            "generationMethod": "adaptive-circle-border-angle-from-calibration",
+            "details": {
+              "handedness": "right",
+              "circleCenter": {
+                "x": 350,
+                "y": 700
+              },
+              "radius": 359.4022815731698,
+              "radiusCalculationMethod": "70th percentile",
+              "radiusPoint": {
+                "x": 333,
+                "y": 341,
+                "reachable": true,
+                "timestamp": 1764046510760
+              },
+              "maxDistance": 479.20767940424327,
+              "farthestPoint": {
+                "x": 384,
+                "y": 222,
+                "reachable": true,
+                "timestamp": 1764046506250
+              },
+              "borderThreshold": 143.76091262926792,
+              "minBorderDistance": 215.64136894390185,
+              "maxBorderDistance": 388.15446409902336,
+              "selectedBorderPoint": {
+                "x": 222,
+                "y": 497
+              },
+              "selectedPointDistance": 239.98541622356973,
+              "selectedPointAngle": 237.7668520837213,
+              "preferredAngleSegment": {
+                "min": 180,
+                "max": 207.5
+              },
+              "usedSegmentPoints": false,
+              "attemptsToAvoidPrevious": 0,
+              "minDistanceFromPrevious": 80,
+              "allowedAngleRange": "180-270° (9-12 o'clock)",
+              "totalReachablePoints": 482,
+              "totalBorderPoints": 239,
+              "angleFilteredBorderPoints": 236,
+              "validBorderPoints": 236
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 339,
+            "y": 446
+          },
+          "completionTime": 3752,
+          "typingTime": 2666,
+          "error": false
+        },
+        {
+          "trial": 2,
+          "targetString": "die",
+          "userInput": "die",
+          "buttonPosition": {
+            "x": 236,
+            "y": 344,
+            "zone": "adaptive-circle-border-angle",
+            "generationMethod": "adaptive-circle-border-angle-from-calibration",
+            "details": {
+              "handedness": "right",
+              "circleCenter": {
+                "x": 350,
+                "y": 700
+              },
+              "radius": 359.4022815731698,
+              "radiusCalculationMethod": "70th percentile",
+              "radiusPoint": {
+                "x": 333,
+                "y": 341,
+                "reachable": true,
+                "timestamp": 1764046510760
+              },
+              "maxDistance": 479.20767940424327,
+              "farthestPoint": {
+                "x": 384,
+                "y": 222,
+                "reachable": true,
+                "timestamp": 1764046506250
+              },
+              "borderThreshold": 143.76091262926792,
+              "minBorderDistance": 215.64136894390185,
+              "maxBorderDistance": 388.15446409902336,
+              "selectedBorderPoint": {
+                "x": 276,
+                "y": 366
+              },
+              "selectedPointDistance": 342.09940075948685,
+              "selectedPointAngle": 257.5075244226389,
+              "preferredAngleSegment": {
+                "min": 207.5,
+                "max": 235
+              },
+              "usedSegmentPoints": false,
+              "attemptsToAvoidPrevious": 13,
+              "minDistanceFromPrevious": 80,
+              "allowedAngleRange": "180-270° (9-12 o'clock)",
+              "totalReachablePoints": 482,
+              "totalBorderPoints": 239,
+              "angleFilteredBorderPoints": 236,
+              "validBorderPoints": 236
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 217,
+            "y": 480
+          },
+          "completionTime": 2356,
+          "typingTime": 1268,
+          "error": false
+        },
+        {
+          "trial": 3,
+          "targetString": "tie",
+          "userInput": "tie",
+          "buttonPosition": {
+            "x": 186,
+            "y": 494,
+            "zone": "adaptive-circle-border-angle",
+            "generationMethod": "adaptive-circle-border-angle-from-calibration",
+            "details": {
+              "handedness": "right",
+              "circleCenter": {
+                "x": 350,
+                "y": 700
+              },
+              "radius": 359.4022815731698,
+              "radiusCalculationMethod": "70th percentile",
+              "radiusPoint": {
+                "x": 333,
+                "y": 341,
+                "reachable": true,
+                "timestamp": 1764046510760
+              },
+              "maxDistance": 479.20767940424327,
+              "farthestPoint": {
+                "x": 384,
+                "y": 222,
+                "reachable": true,
+                "timestamp": 1764046506250
+              },
+              "borderThreshold": 143.76091262926792,
+              "minBorderDistance": 215.64136894390185,
+              "maxBorderDistance": 388.15446409902336,
+              "selectedBorderPoint": {
+                "x": 226,
+                "y": 516
+              },
+              "selectedPointDistance": 221.8828519737386,
+              "selectedPointAngle": 236.02345596374312,
+              "preferredAngleSegment": {
+                "min": 235,
+                "max": 262.5
+              },
+              "usedSegmentPoints": true,
+              "attemptsToAvoidPrevious": 50,
+              "minDistanceFromPrevious": 80,
+              "allowedAngleRange": "180-270° (9-12 o'clock)",
+              "totalReachablePoints": 482,
+              "totalBorderPoints": 239,
+              "angleFilteredBorderPoints": 236,
+              "validBorderPoints": 236
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 328,
+            "y": 472
+          },
+          "completionTime": 1824,
+          "typingTime": 1252,
+          "error": false
+        },
+        {
+          "trial": 4,
+          "targetString": "sue",
+          "userInput": "sue",
+          "buttonPosition": {
+            "x": 299,
+            "y": 330,
+            "zone": "adaptive-circle-border-angle",
+            "generationMethod": "adaptive-circle-border-angle-from-calibration",
+            "details": {
+              "handedness": "right",
+              "circleCenter": {
+                "x": 350,
+                "y": 700
+              },
+              "radius": 359.4022815731698,
+              "radiusCalculationMethod": "70th percentile",
+              "radiusPoint": {
+                "x": 333,
+                "y": 341,
+                "reachable": true,
+                "timestamp": 1764046510760
+              },
+              "maxDistance": 479.20767940424327,
+              "farthestPoint": {
+                "x": 384,
+                "y": 222,
+                "reachable": true,
+                "timestamp": 1764046506250
+              },
+              "borderThreshold": 143.76091262926792,
+              "minBorderDistance": 215.64136894390185,
+              "maxBorderDistance": 388.15446409902336,
+              "selectedBorderPoint": {
+                "x": 363,
+                "y": 352
+              },
+              "selectedPointDistance": 348.2427314388629,
+              "selectedPointAngle": 272.1393647921035,
+              "preferredAngleSegment": {
+                "min": 262.5,
+                "max": 270
+              },
+              "usedSegmentPoints": true,
+              "attemptsToAvoidPrevious": 50,
+              "minDistanceFromPrevious": 80,
+              "allowedAngleRange": "180-270° (9-12 o'clock)",
+              "totalReachablePoints": 482,
+              "totalBorderPoints": 239,
+              "angleFilteredBorderPoints": 236,
+              "validBorderPoints": 236
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 359,
+            "y": 321
+          },
+          "completionTime": 2373,
+          "typingTime": 1718,
+          "error": false
+        },
+        {
+          "trial": 5,
+          "targetString": "cue",
+          "userInput": "cue",
+          "buttonPosition": {
+            "x": 201,
+            "y": 400,
+            "zone": "adaptive-circle-border-angle",
+            "generationMethod": "adaptive-circle-border-angle-from-calibration",
+            "details": {
+              "handedness": "right",
+              "circleCenter": {
+                "x": 350,
+                "y": 700
+              },
+              "radius": 359.4022815731698,
+              "radiusCalculationMethod": "70th percentile",
+              "radiusPoint": {
+                "x": 333,
+                "y": 341,
+                "reachable": true,
+                "timestamp": 1764046510760
+              },
+              "maxDistance": 479.20767940424327,
+              "farthestPoint": {
+                "x": 384,
+                "y": 222,
+                "reachable": true,
+                "timestamp": 1764046506250
+              },
+              "borderThreshold": 143.76091262926792,
+              "minBorderDistance": 215.64136894390185,
+              "maxBorderDistance": 388.15446409902336,
+              "selectedBorderPoint": {
+                "x": 241,
+                "y": 422
+              },
+              "selectedPointDistance": 298.60509037858014,
+              "selectedPointAngle": 248.59053314032826,
+              "preferredAngleSegment": {
+                "min": 180,
+                "max": 207.5
+              },
+              "usedSegmentPoints": false,
+              "attemptsToAvoidPrevious": 0,
+              "minDistanceFromPrevious": 80,
+              "allowedAngleRange": "180-270° (9-12 o'clock)",
+              "totalReachablePoints": 482,
+              "totalBorderPoints": 239,
+              "angleFilteredBorderPoints": 236,
+              "validBorderPoints": 236
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 258,
+            "y": 343
+          },
+          "completionTime": 2207,
+          "typingTime": 1434,
+          "error": false
+        }
+      ]
+    },
+    {
+      "condition": "bottom-right",
+      "order": 2,
+      "avgCompletionTime": 1896,
+      "errorRate": 0,
+      "trials": [
+        {
+          "trial": 1,
+          "targetString": "woe",
+          "userInput": "woe",
+          "buttonPosition": {
+            "x": 139.4941555259696,
+            "y": 553,
+            "zone": "bottom-randomized",
+            "generationMethod": "bottom-random-x-full-width",
+            "details": {
+              "areaWidth": 389,
+              "areaHeight": 647,
+              "minX": 10,
+              "maxX": 299,
+              "fixedY": 553,
+              "randomizedX": 139.4941555259696,
+              "range": "0-100% screen width"
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 160,
+            "y": 575
+          },
+          "completionTime": 2293,
+          "typingTime": 1417,
+          "error": false
+        },
+        {
+          "trial": 2,
+          "targetString": "toe",
+          "userInput": "toe",
+          "buttonPosition": {
+            "x": 179.37343989755652,
+            "y": 553,
+            "zone": "bottom-randomized",
+            "generationMethod": "bottom-random-x-full-width",
+            "details": {
+              "areaWidth": 389,
+              "areaHeight": 647,
+              "minX": 10,
+              "maxX": 299,
+              "fixedY": 553,
+              "randomizedX": 179.37343989755652,
+              "range": "0-100% screen width"
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 223,
+            "y": 583
+          },
+          "completionTime": 2025,
+          "typingTime": 1285,
+          "error": false
+        },
+        {
+          "trial": 3,
+          "targetString": "roe",
+          "userInput": "roe",
+          "buttonPosition": {
+            "x": 207.63676470325447,
+            "y": 553,
+            "zone": "bottom-randomized",
+            "generationMethod": "bottom-random-x-full-width",
+            "details": {
+              "areaWidth": 389,
+              "areaHeight": 647,
+              "minX": 10,
+              "maxX": 299,
+              "fixedY": 553,
+              "randomizedX": 207.63676470325447,
+              "range": "0-100% screen width"
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 260,
+            "y": 588
+          },
+          "completionTime": 1859,
+          "typingTime": 1119,
+          "error": false
+        },
+        {
+          "trial": 4,
+          "targetString": "foe",
+          "userInput": "foe",
+          "buttonPosition": {
+            "x": 165.72491388212936,
+            "y": 553,
+            "zone": "bottom-randomized",
+            "generationMethod": "bottom-random-x-full-width",
+            "details": {
+              "areaWidth": 389,
+              "areaHeight": 647,
+              "minX": 10,
+              "maxX": 299,
+              "fixedY": 553,
+              "randomizedX": 165.72491388212936,
+              "range": "0-100% screen width"
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 92,
+            "y": 589
+          },
+          "completionTime": 1692,
+          "typingTime": 1085,
+          "error": false
+        },
+        {
+          "trial": 5,
+          "targetString": "rue",
+          "userInput": "rue",
+          "buttonPosition": {
+            "x": 133.72250928306335,
+            "y": 553,
+            "zone": "bottom-randomized",
+            "generationMethod": "bottom-random-x-full-width",
+            "details": {
+              "areaWidth": 389,
+              "areaHeight": 647,
+              "minX": 10,
+              "maxX": 299,
+              "fixedY": 553,
+              "randomizedX": 133.72250928306335,
+              "range": "0-100% screen width"
+            }
+          },
+          "buttonTouchPosition": {
+            "x": 339,
+            "y": 582
+          },
+          "completionTime": 1611,
+          "typingTime": 1087,
+          "error": false
+        }
+      ]
+    },
+    {
+      "condition": "fixed",
+      "order": 3,
+      "avgCompletionTime": 3190.4,
+      "errorRate": 0,
+      "trials": [
+        {
+          "trial": 1,
+          "targetString": "due",
+          "userInput": "due",
+          "buttonPosition": {
+            "x": 299,
+            "y": 5,
+            "zone": "top-right-fixed",
+            "generationMethod": "fixed-top-right",
+            "details": null
+          },
+          "buttonTouchPosition": {
+            "x": 355,
+            "y": 50
+          },
+          "completionTime": 2976,
+          "typingTime": 1735,
+          "error": false
+        },
+        {
+          "trial": 2,
+          "targetString": "awe",
+          "userInput": "awe",
+          "buttonPosition": {
+            "x": 299,
+            "y": 5,
+            "zone": "top-right-fixed",
+            "generationMethod": "fixed-top-right",
+            "details": null
+          },
+          "buttonTouchPosition": {
+            "x": 347,
+            "y": 58
+          },
+          "completionTime": 5469,
+          "typingTime": 4745,
+          "error": false
+        },
+        {
+          "trial": 3,
+          "targetString": "owe",
+          "userInput": "owe",
+          "buttonPosition": {
+            "x": 299,
+            "y": 5,
+            "zone": "top-right-fixed",
+            "generationMethod": "fixed-top-right",
+            "details": null
+          },
+          "buttonTouchPosition": {
+            "x": 347,
+            "y": 21
+          },
+          "completionTime": 2441,
+          "typingTime": 1635,
+          "error": false
+        },
+        {
+          "trial": 4,
+          "targetString": "ewe",
+          "userInput": "ewe",
+          "buttonPosition": {
+            "x": 299,
+            "y": 5,
+            "zone": "top-right-fixed",
+            "generationMethod": "fixed-top-right",
+            "details": null
+          },
+          "buttonTouchPosition": {
+            "x": 354,
+            "y": 27
+          },
+          "completionTime": 2907,
+          "typingTime": 2234,
+          "error": false
+        },
+        {
+          "trial": 5,
+          "targetString": "eye",
+          "userInput": "eye",
+          "buttonPosition": {
+            "x": 299,
+            "y": 5,
+            "zone": "top-right-fixed",
+            "generationMethod": "fixed-top-right",
+            "details": null
+          },
+          "buttonTouchPosition": {
+            "x": 347,
+            "y": 35
+          },
+          "completionTime": 2159,
+          "typingTime": 1419,
+          "error": false
+        }
+      ]
+    }
+  ],
+  "participant": {
+    "name": "나은채",
+    "studentId": "20226973",
+    "handedness": "right",
+    "timestamp": "2025-11-25T04:54:26.102Z"
+  }
+}
