@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c64bcce-ab5f-43d7-acc2-9fcf8e4bad0f" name="Changes" comment="Add initial implementation including data processing, visualization scripts, and configuration files">
-      <change afterPath="$PROJECT_DIR$/05_advanced_survey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/사후 설문 정리.csv" afterDir="false" />
+    <list default="true" id="9c64bcce-ab5f-43d7-acc2-9fcf8e4bad0f" name="Changes" comment="최종">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +35,9 @@
     "accountId": "7c287ff7-9865-445c-b895-4802682e305e"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -102,7 +103,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1764301524168</updated>
-      <workItem from="1764301525191" duration="8207000" />
+      <workItem from="1764301525191" duration="8312000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial implementation including data processing, visualization scripts, and configuration files">
       <option name="closed" value="true" />
@@ -112,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764308046995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="최종">
+      <option name="closed" value="true" />
+      <created>1764311609075</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1764311609075</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +129,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add initial implementation including data processing, visualization scripts, and configuration files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add initial implementation including data processing, visualization scripts, and configuration files" />
+    <MESSAGE value="최종" />
+    <option name="LAST_COMMIT_MESSAGE" value="최종" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HIMTeam6$process.coverage" NAME="process Coverage Results" MODIFIED="1764302021880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/00_utils" />
