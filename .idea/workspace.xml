@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c64bcce-ab5f-43d7-acc2-9fcf8e4bad0f" name="Changes" comment="최종">
+    <list default="true" id="9c64bcce-ab5f-43d7-acc2-9fcf8e4bad0f" name="Changes" comment="Update IDEA workspace configuration">
+      <change afterPath="$PROJECT_DIR$/findthequeue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,24 +25,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "marcellokim"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;marcellokim&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:marcellokim/HIMTeam6.git",
-    "accountId": "7c287ff7-9865-445c-b895-4802682e305e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:marcellokim/HIMTeam6.git&quot;,
+    &quot;accountId&quot;: &quot;7c287ff7-9865-445c-b895-4802682e305e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="AISelfReview" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="365fo5MOCvVcnxS1BHntdmAbLgZ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -62,10 +64,13 @@
     "Python.03_spatial_effects_rt.executor": "Run",
     "Python.04_adaptive_behavior.executor": "Run",
     "Python.05_advanced_survey.executor": "Run",
+    "Python.findthequeue.executor": "Run",
     "Python.load.executor": "Run",
     "Python.process.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
@@ -104,6 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764301524168</updated>
       <workItem from="1764301525191" duration="8312000" />
+      <workItem from="1764311639090" duration="1847000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial implementation including data processing, visualization scripts, and configuration files">
       <option name="closed" value="true" />
@@ -121,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764311609075</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update IDEA workspace configuration">
+      <option name="closed" value="true" />
+      <created>1764311670107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1764311670107</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +144,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add initial implementation including data processing, visualization scripts, and configuration files" />
     <MESSAGE value="최종" />
-    <option name="LAST_COMMIT_MESSAGE" value="최종" />
+    <MESSAGE value="Update IDEA workspace configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update IDEA workspace configuration" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HIMTeam6$process.coverage" NAME="process Coverage Results" MODIFIED="1764302021880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/00_utils" />
@@ -143,7 +158,9 @@
     <SUITE FILE_PATH="coverage/HIMTeam6$01_data_loader.coverage" NAME="01_data_loader Coverage Results" MODIFIED="1764307287646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$03_heatmap_analysis.coverage" NAME="03_heatmap_analysis Coverage Results" MODIFIED="1764307679212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$02_data_analysis.coverage" NAME="02_data_analysis Coverage Results" MODIFIED="1764307480023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HIMTeam6$test.coverage" NAME="test Coverage Results" MODIFIED="1764312123361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$05_advanced_survey.coverage" NAME="05_advanced_survey Coverage Results" MODIFIED="1764311126625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$03_spatial_effects_rt.coverage" NAME="03_spatial_effects_rt Coverage Results" MODIFIED="1764305213562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
+    <SUITE FILE_PATH="coverage/HIMTeam6$findthequeue.coverage" NAME="findthequeue Coverage Results" MODIFIED="1764312595226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
