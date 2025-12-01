@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c64bcce-ab5f-43d7-acc2-9fcf8e4bad0f" name="Changes" comment="Add data processing scripts with JSON parsing and survey mapping functionality" />
+    <list default="true" id="9c64bcce-ab5f-43d7-acc2-9fcf8e4bad0f" name="Changes" comment="Add survey data check CSV and update workspace configuration">
+      <change afterPath="$PROJECT_DIR$/04_preference_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06_tlx_analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,8 +62,10 @@
     "Python.03_adaptive_behavior.executor": "Run",
     "Python.03_heatmap_analysis.executor": "Run",
     "Python.03_spatial_effects_rt.executor": "Run",
+    "Python.04.executor": "Run",
     "Python.04_adaptive_behavior.executor": "Run",
     "Python.05_advanced_survey.executor": "Run",
+    "Python.06_tlx_analysis.executor": "Run",
     "Python.findthequeue.executor": "Run",
     "Python.load.executor": "Run",
     "Python.process.executor": "Run",
@@ -105,7 +111,7 @@
       <option name="presentableId" value="Default" />
       <updated>1764301524168</updated>
       <workItem from="1764301525191" duration="8312000" />
-      <workItem from="1764311639090" duration="2184000" />
+      <workItem from="1764311639090" duration="3429000" />
     </task>
     <task id="LOCAL-00001" summary="Add initial implementation including data processing, visualization scripts, and configuration files">
       <option name="closed" value="true" />
@@ -139,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1764576379723</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add survey data check CSV and update workspace configuration">
+      <option name="closed" value="true" />
+      <created>1764576550256</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764576550256</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,13 +164,15 @@
     <MESSAGE value="최종" />
     <MESSAGE value="Update IDEA workspace configuration" />
     <MESSAGE value="Add data processing scripts with JSON parsing and survey mapping functionality" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add data processing scripts with JSON parsing and survey mapping functionality" />
+    <MESSAGE value="Add survey data check CSV and update workspace configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add survey data check CSV and update workspace configuration" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HIMTeam6$process.coverage" NAME="process Coverage Results" MODIFIED="1764302021880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/00_utils" />
     <SUITE FILE_PATH="coverage/HIMTeam6$02_condition_performance_stats.coverage" NAME="02_condition_performance_stats Coverage Results" MODIFIED="1764303863191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
     <SUITE FILE_PATH="coverage/HIMTeam6$03_adaptive_behavior.coverage" NAME="03_adaptive_behavior Coverage Results" MODIFIED="1764304177555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
     <SUITE FILE_PATH="coverage/HIMTeam6$04_adaptive_behavior.coverage" NAME="04_adaptive_behavior Coverage Results" MODIFIED="1764306024132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
+    <SUITE FILE_PATH="coverage/HIMTeam6$04.coverage" NAME="04 Coverage Results" MODIFIED="1764576674320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$02_condition_performance_visuals.coverage" NAME="02_condition_performance_visuals Coverage Results" MODIFIED="1764303530311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
     <SUITE FILE_PATH="coverage/HIMTeam6$load.coverage" NAME="load Coverage Results" MODIFIED="1764301953404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis/00_utils" />
     <SUITE FILE_PATH="coverage/HIMTeam6$01_data_overview.coverage" NAME="01_data_overview Coverage Results" MODIFIED="1764303224063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
@@ -164,6 +180,7 @@
     <SUITE FILE_PATH="coverage/HIMTeam6$03_heatmap_analysis.coverage" NAME="03_heatmap_analysis Coverage Results" MODIFIED="1764307679212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$02_data_analysis.coverage" NAME="02_data_analysis Coverage Results" MODIFIED="1764307480023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$test.coverage" NAME="test Coverage Results" MODIFIED="1764312123361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HIMTeam6$06_tlx_analysis.coverage" NAME="06_tlx_analysis Coverage Results" MODIFIED="1764577032341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$05_advanced_survey.coverage" NAME="05_advanced_survey Coverage Results" MODIFIED="1764311126625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/HIMTeam6$03_spatial_effects_rt.coverage" NAME="03_spatial_effects_rt Coverage Results" MODIFIED="1764305213562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/analysis" />
     <SUITE FILE_PATH="coverage/HIMTeam6$findthequeue.coverage" NAME="findthequeue Coverage Results" MODIFIED="1764312595226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
